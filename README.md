@@ -2,7 +2,7 @@
     <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=1280&height=80&lines=The+Complete+FAANG+Preparation"/> </a>
 </p>
 
-[![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme)
+[![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM.gif)](https://github.com/AsminSayim/The-Complete-FAANG-Preparation#readme)
 
 <details open>
 	<summary align="center"><a align="center" href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Total_Views-black?style=plastic&logo=eye&logoColor=2CFF00" width="200px" height="40px" /></a></summary>	
@@ -11,25 +11,25 @@
 	</p>
 </details>
 
-[![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAkashSingh3031%26type%3Djson)](https://github.com/AkashSingh3031)
-[![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=history)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits/master)
-[![Awesome Contributors](https://custom-icon-badges.demolab.com/github/contributors/AkashSingh3031/The-Complete-FAANG-Preparation?label=Awesome%20Contributors&style=plastic&logo=heart-fill)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/graphs/contributors)
+[![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AsminSayim)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AsminSayim/The-Complete-FAANG-Preparation)
+[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAkashSingh3031%26type%3Djson)](https://github.com/AsminSayim)
+[![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AsminSayim/The-Complete-FAANG-Preparation?style=plastic&logo=history)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/commits/master)
+[![Awesome Contributors](https://custom-icon-badges.demolab.com/github/contributors/AsminSayim/The-Complete-FAANG-Preparation?label=Awesome%20Contributors&style=plastic&logo=heart-fill)](https://github.com/AsminSayim/The-Complete-FAANG-Preparation/graphs/contributors)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031)](https://leetcode.com/akashsingh3031)
-[![Total Language](https://custom-icon-badges.demolab.com/github/languages/count/AkashSingh3031/The-Complete-FAANG-Preparation?style=plasticcal&logo=code&logoColor=green&labelColor=darkblue&color=crimson)]()
-[![Top Language](https://custom-icon-badges.demolab.com/github/languages/top/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=rocket&logoColor=green&labelColor=darkblue&color=crimson)]()
-[![Issues Open](https://custom-icon-badges.demolab.com/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=issue-opened)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues)
-[![Issues Close](https://custom-icon-badges.demolab.com/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&color=critical&logo=issue)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues?q=is%3Aissue+is%3Aclosed)
-[![Open PRs](https://custom-icon-badges.demolab.com/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=git-pull-request)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls)
-[![Close PRs](https://custom-icon-badges.demolab.com/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&color=critical&logo=git-merge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls?q=is%3Apr+is%3Aclosed)
+[![Total Language](https://custom-icon-badges.demolab.com/github/languages/count/AsminSayim/The-Complete-FAANG-Preparation?style=plasticcal&logo=code&logoColor=green&labelColor=darkblue&color=crimson)]()
+[![Top Language](https://custom-icon-badges.demolab.com/github/languages/top/AsminSayim/The-Complete-FAANG-Preparation?style=plastic&logo=rocket&logoColor=green&labelColor=darkblue&color=crimson)]()
+[![Issues Open](https://custom-icon-badges.demolab.com/github/issues/AsminSayim/The-Complete-FAANG-Preparation?style=plastic&logo=issue-opened)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues)
+[![Issues Close](https://custom-icon-badges.demolab.com/github/issues-closed/AsminSayim/The-Complete-FAANG-Preparation?style=plastic&color=critical&logo=issue)](https://github.com/AsminSayim/The-Complete-FAANG-Preparation/issues?q=is%3Aissue+is%3Aclosed)
+[![Open PRs](https://custom-icon-badges.demolab.com/github/issues-pr/AsminSayim/The-Complete-FAANG-Preparation?style=plastic&logo=git-pull-request)](https://github.com/AsminSayim/The-Complete-FAANG-Preparation/pulls)
+[![Close PRs](https://custom-icon-badges.demolab.com/github/issues-pr-closed/AsminSayim/The-Complete-FAANG-Preparation?style=plastic&color=critical&logo=git-merge)](https://github.com/AsminSayim/The-Complete-FAANG-Preparation/pulls?q=is%3Apr+is%3Aclosed)
 
-[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AkashSingh3031?style=social&logo=followers&logoColor=black)](https://github.com/AkashSingh3031?tab=followers)
-[![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=star&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers)
-[![GitHub Forks](https://custom-icon-badges.demolab.com/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=fork&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members)
-[![GitHub Watchers](https://custom-icon-badges.demolab.com/github/watchers/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=eye&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/watchers)
-[![License](https://custom-icon-badges.demolab.com/badge/License-MIT-red.svg?style=social&logo=law&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/LICENSE)
-[![Size](https://custom-icon-badges.demolab.com/github/repo-size/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=file-code&logoColor=black&label=Repo%20Size%20)](https://github.com/AkashSingh3031)
+[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AsminSayim?style=social&logo=followers&logoColor=black)](https://github.com/AsminSayim?tab=followers)
+[![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/AsminSayim/The-Complete-FAANG-Preparation?style=social&logo=star&logoColor=black)](https://github.com/AsminSayim/The-Complete-FAANG-Preparation/stargazers)
+[![GitHub Forks](https://custom-icon-badges.demolab.com/github/forks/AsminSayim/The-Complete-FAANG-Preparation?style=social&logo=fork&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members)
+[![GitHub Watchers](https://custom-icon-badges.demolab.com/github/watchers/AsminSayim/The-Complete-FAANG-Preparation?style=social&logo=eye&logoColor=black)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/watchers)
+[![License](https://custom-icon-badges.demolab.com/badge/License-MIT-red.svg?style=social&logo=law&logoColor=black)](https://github.com/AsminSayim/The-Complete-FAANG-Preparation/blob/master/LICENSE)
+[![Size](https://custom-icon-badges.demolab.com/github/repo-size/AsminSayim/The-Complete-FAANG-Preparation?style=social&logo=file-code&logoColor=black&label=Repo%20Size%20)](https://github.com/AsminSayim)
 <!-- [![Lines of code](https://img.shields.io/tokei/lines/github/AkashSingh3031/The-Complete-FAANG-Preparation?style=social&logo=github&label=Lines%20of%20Code)](https://github.com/AkashSingh3031) -->
 <!-- 
 <table border="3">
@@ -43,8 +43,7 @@
 <details open> 
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
   <table border="3" align="center">
-    <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="60" /></a></td>
-    <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh030318@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
+    <src="https://github.com/AsminSayim/AsminSayim/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
     <td align="center"><a href="https://github.com/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" alt="GitHub" width="65"/></a></td>
     <td align="center"><a href="https://github.com/sponsors/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GitHub_Sponsor.png" alt="GitHub Sponsor" width="65"/></a></td>
     <td align="center"><a href="https://medium.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/medium.svg" alt="Medium" width="55"/></a></td>
